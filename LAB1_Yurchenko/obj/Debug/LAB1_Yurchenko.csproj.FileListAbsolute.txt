@@ -1,0 +1,10 @@
+E:\programming\OOP\LAB1_Yurchenko\LAB1_Yurchenko\bin\Debug\LAB1_Yurchenko.exe.config
+E:\programming\OOP\LAB1_Yurchenko\LAB1_Yurchenko\bin\Debug\LAB1_Yurchenko.exe
+E:\programming\OOP\LAB1_Yurchenko\LAB1_Yurchenko\bin\Debug\LAB1_Yurchenko.pdb
+E:\programming\OOP\LAB1_Yurchenko\LAB1_Yurchenko\obj\Debug\LAB1_Yurchenko.csproj.AssemblyReference.cache
+E:\programming\OOP\LAB1_Yurchenko\LAB1_Yurchenko\obj\Debug\LAB1_Yurchenko.Form1.resources
+E:\programming\OOP\LAB1_Yurchenko\LAB1_Yurchenko\obj\Debug\LAB1_Yurchenko.Properties.Resources.resources
+E:\programming\OOP\LAB1_Yurchenko\LAB1_Yurchenko\obj\Debug\LAB1_Yurchenko.csproj.GenerateResource.cache
+E:\programming\OOP\LAB1_Yurchenko\LAB1_Yurchenko\obj\Debug\LAB1_Yurchenko.csproj.CoreCompileInputs.cache
+E:\programming\OOP\LAB1_Yurchenko\LAB1_Yurchenko\obj\Debug\LAB1_Yurchenko.exe
+E:\programming\OOP\LAB1_Yurchenko\LAB1_Yurchenko\obj\Debug\LAB1_Yurchenko.pdb
